@@ -20,4 +20,5 @@ ruta:
   y nos debebe de regresar los datos del usuario
 
 
-
+// cerramos session con la ruta
+ http://127.0.0.1:8000/api/auth/logout
