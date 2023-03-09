@@ -1,5 +1,8 @@
-- Correr la web
+- Correr la web - php artisan serve
+- correr las migraciones -php artisan migrate
+- Crear la base de datos - en este caso:  citaodontologica
 
+/Abrir postman
 //todos son metodos POST
 //paso uno - registar un usuario
 
