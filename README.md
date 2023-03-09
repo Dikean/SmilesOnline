@@ -1,4 +1,4 @@
-- COrrer la web
+- Correr la web
 
 //todos son metodos POST
 //paso uno - registar un usuario
